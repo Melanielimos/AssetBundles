@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3698915105
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ccb7c6403a423e516e494964a51c32a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad4ae74737b01345136fe097c184f074
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/PlantsPackage/Prefabs/plant4 Variant.prefab
+Dependencies: []
